@@ -13,14 +13,14 @@ INFO = dict((line.strip().split('=') for line in INFO))
 DEPENDENCIES = open(os.path.join(PROJECT_DIR, 'requirements.txt')).readlines()
 
 setup(
-    name='synthetic_sentences',
-    description='Synthetic Sentences Library',
+    name='IA.ChatBot',
+    description='ChatBot with Tensorflow',
     version=INFO['version'],
     author=INFO['author'],
     author_email=INFO['author_email'],
     url=INFO['url'],    
     license=open(os.path.join(PROJECT_DIR, 'LICENSE')).read(),
-    packages=find_namespace_packages(include=['medroom','medroom.dna.utils', 'medroom.dna.model', 'medroom.dna.*']),
+    packages=find_namespace_packages(include=['chat','chat.dna.utils', 'chat.dna.model', 'chat.dna.*']),
     install_requires=[d for d in DEPENDENCIES if '://' not in d],
     python_requires='>=3.10',
     #TO-DO: Fix dependency links : not working with bdist_wheel
