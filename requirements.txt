@@ -1,0 +1,58 @@
+tensorflow==1.0.0
+keras
+openpyxl>=3.0.9
+faker
+
+## Notebooks
+notedown>=1.5.1
+jupyterthemes>=0.20.0
+
+## Models
+# joblib>=0.14.1
+# scikit-learn>=0.23
+# joblibspark>=0.2.0
+tweepy
+
+## Visualization
+seaborn>=0.11.1
+pathlib
+
+# bokeh>=2.2.3
+# holoviews>=1.13.5
+## Security
+# cryptography>=2.7
+## Text
+nltk>=3.6.6
+spacy>=3.0.3
+kneebow
+
+python-dotenv>=0.15.0
+firebase-admin>=4.5.2
+
+# APIs
+requests
+gensim>=4.0.0
+python-Levenshtein>=0.12.2
+
+# WordCloud
+wordcloud>=1.8.1
+
+#data visualization
+matplotlib>=3.1.1
+
+## Machine Learning libs
+scikit-learn>=0.24.2
+joblib
+
+## Detect language
+langdetect
+
+pytest
+mlflow
+coverage>=5.5
+pydub
+
+unidecode
+
+# text to speech
+gTTS
