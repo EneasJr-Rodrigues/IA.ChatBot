@@ -6,7 +6,7 @@ ARG config_path
 ARG jfrog_user
 ARG jfrog_pass
 
-LABEL maintainer="eneas.rodrigues@medroom.com.br"
+LABEL maintainer="eneas.rodrigues25@gmail.com"
 USER $root
 
 # ubuntu
