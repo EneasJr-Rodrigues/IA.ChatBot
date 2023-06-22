@@ -4,7 +4,7 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-disabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-This project was created by [Eneas Rodrigues](https://github.com/EneasJr-Rodrigues) of Data Scientist and Neural Networking.
+This project was created by [Eneas Rodrigues](https://github.com/EneasJr-Rodrigues) Systems Architect and Artificial Intelligence using Neural Networking.
 for instruction on how to build, run and test it.
 
 ## ⚠️ Important
