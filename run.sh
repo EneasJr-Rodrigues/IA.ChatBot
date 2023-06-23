@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "====================================================================="
-echo "Up Containers - Synthetic Sentences API"
+echo "Up Containers - "Chatbot" API"
 docker compose --env-file config/local/.env up -d
 echo "====================================================================="
